@@ -7,3 +7,5 @@ create a nre branch named feature1!
 >>>>>>> feature1
 git merge with ff
 git merfe with nff
+dev is now my work branch
+master is mod
