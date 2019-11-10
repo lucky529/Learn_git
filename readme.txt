@@ -7,3 +7,4 @@ create a nre branch named feature1!
 >>>>>>> feature1
 git merge with ff
 git merfe with nff
+tmp is mod
