@@ -1,3 +1,7 @@
 git is a good file control!
 create a new branch named dev!
-add a new line named myname is master!
+<<<<<<< HEAD
+add a new line named myname a master!
+=======
+create a nre branch named feature1!
+>>>>>>> feature1
